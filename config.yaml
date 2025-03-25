@@ -1,0 +1,6 @@
+file_path: '..\data\Cell_Phones_&_Accessories.txt.gz'
+sentimental_scores_path: '..\scores_and_plots\sentimental_scores'
+sentimental_photo_path: '..\scores_and_plots\negative_vs_positive'
+cluster_photo_path: '..\scores_and_plots\cluster_visualization'
+similar_products_path: '..\scores_and_plots\similar_products'
+input_product_id: "B000JVER7W"
